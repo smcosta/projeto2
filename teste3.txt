@@ -1,1 +1,4 @@
 esse é o arquivo 3
+
+nova linha adicionada
+nova linha adicionada
